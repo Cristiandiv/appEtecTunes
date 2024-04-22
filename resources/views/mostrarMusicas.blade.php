@@ -2,7 +2,6 @@
 @section('content')
 <section class="container m-5">
 
-  
 <div class="container">
   <div class="row">
     @foreach($registroMusicas as $registroMusicasLoop)
